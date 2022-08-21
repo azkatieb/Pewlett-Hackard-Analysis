@@ -1,0 +1,3 @@
+SELECT COUNT (imdb_id) from Movies
+
+SELECT * from Movies
